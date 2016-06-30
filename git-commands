@@ -1,0 +1,14 @@
+1.	git init
+2.	git status
+3.	git add file.txt
+4.	git commit -m 'This is text file'
+5.	git add '*.txt' --------adding similar type file to staging 		area
+6.	git commit -m 'this is all text file'
+7.	git remote add origin https://github.com/git  -----URl github  		adding remote to new repo with url----- name of remote is 		origin 
+8.	git push -u origin master  --and local branch is master 
+	-u tells git to remember the parameter when we can simply run
+	git push
+	push command tell git to put our commit when they are ready
+
+
+
